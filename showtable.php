@@ -23,7 +23,7 @@
     } else {
         echo "connection created";
     }
-    $sql = "select * from Users";
+    $sql = "select * from users";
     $result = $connection->query($sql);
 
     if ($result->num_rows > 0) {
