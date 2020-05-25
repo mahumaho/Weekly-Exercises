@@ -1,0 +1,16 @@
+#demo{
+    width: 100px;
+    height: 100px;
+    background-color:green;
+}
+
+#forslide{
+    width: 500px;
+    height:500px;
+    background-color: aquamarine;
+    display: none;
+}
+
+.table1 {
+    background-color: #ff66d9;
+}
